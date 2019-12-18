@@ -1,8 +1,8 @@
 name: mobile_system_proxy
 description: A new Flutter plugin.
-version: 0.0.1
-author:
-homepage:
+version: 0.1.0
+author: akiberq@gmail.com
+homepage: https://github.com/iKrupp/mobile_system_proxy
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
