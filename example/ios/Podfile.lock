@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - mobile_system_proxy (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - mobile_system_proxy (from `.symlinks/plugins/mobile_system_proxy/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  mobile_system_proxy:
+    :path: ".symlinks/plugins/mobile_system_proxy/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  mobile_system_proxy: 9544c89d0f76163ecf345bd042e837a2ba125be2
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
